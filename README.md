@@ -62,7 +62,7 @@ An interactive HR Attrition dashboard built to visualize key attrition drivers a
 ### Tools Used
 Power BI Desktop, DAX measures, SQLite (data source)
 
-📁 [Download Dashboard (.pbix)](HR-Attrition Dashboard.pbix) 
+📁 [Download Dashboard (.pbix)](HR-Attrition Dashboard.pbix)
 
 ## Author
 Vinay Tehare | [LinkedIn](https://www.linkedin.com/in/vinay-tehare)
