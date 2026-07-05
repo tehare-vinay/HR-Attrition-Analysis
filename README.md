@@ -40,8 +40,29 @@ and Power BI.
 ### Correlation Heatmap
 ![Correlation Heatmap](correlation_heatmap.png)
 
-## Status
-🔄 In Progress — Power BI dashboard under development
+## 📊 Power BI Dashboard
+
+An interactive HR Attrition dashboard built to visualize key attrition drivers and support HR decision-making.
+
+![Dashboard Overview](dashboard_overview.png)
+
+### Key Features
+- **KPI Cards:** Total Employees, Employees Left, Attrition Rate
+- **Department & Job Role Analysis:** Identifies highest-risk departments and roles
+- **OverTime vs Attrition:** Reveals 3x higher attrition among employees working overtime (30%+ vs ~10%)
+- **Age-wise Attrition Trends:** Highlights younger employees as higher flight risk
+- **Interactive Filters:** Department, Gender, Job Role, Education Field, Marital Status
+
+### Key Insights
+- Employees working OverTime show significantly higher attrition (30%+ vs ~10% for non-overtime)
+- Sales Representatives have the highest attrition rate (~40%) among all job roles
+- Employees under 30 show the highest attrition risk
+- No single factor strongly predicts attrition — it's driven by a combination of workload, compensation, and tenure
+
+### Tools Used
+Power BI Desktop, DAX measures, SQLite (data source)
+
+📁 [Download Dashboard (.pbix)](HR-Attrition Dashboard.pbix) 
 
 ## Author
 Vinay Tehare | [LinkedIn](https://www.linkedin.com/in/vinay-tehare)
